@@ -1,0 +1,155 @@
+.header{
+    background: #3b5998;
+    width: auto;
+    height: 85px;
+}
+
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.logo{
+    float: left;
+    width: 50%;
+    color: #fff;
+    padding-top: 32px;
+    
+}
+
+.logo-text{
+    color: #fff;
+    font-size:35px;
+    font-weight: bold;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 100px;
+    text-decoration: none;
+    float: left;
+}
+
+.login{
+    float: left;
+    width: 50%;
+    padding-top: 10px;
+} 
+
+.login-label{
+    color: #fff;
+}
+
+.login-control{
+    margin-left: 150px;
+}
+
+.forgotten{
+    color: #9cb4d8;
+    font-size: 11px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.sub-button{
+    color: #fff;
+    background: #4267b2;
+    border-color:#29487d;
+    height:25px;
+    cursor: pointer;
+}
+
+.sub-button:hover{
+    background: rgba(57, 57, 174, 0.377);
+}
+
+.main-body{
+    width: 100%;
+    height: 590px;
+    background: linear-Gradient(white,#D3D8E8);
+}
+
+.body-left{
+    float: left;
+    width: 50%;
+    padding-top: 57px;
+    padding-left: 134px;
+     
+}
+
+.para{
+    font-weight: bold;
+    font-size: 21px;
+    color: #29487d;
+}
+
+.img{
+    width: 500px;
+   
+}
+
+.body-right{
+    float: left;
+    width: 39%;
+    padding-top: 50px;
+
+}
+
+.heading{
+    font-weight: bold;
+    font-size: 35px;
+   
+}
+
+.heading1{
+    font-weight:500;
+    font-size: medium;
+    
+}
+
+.form{
+    font-size: 15px;
+    font-weight: 500;
+    height: 25px;
+    border-radius: 3px;
+}
+
+.form1{
+    font-size: 15px;
+    font-weight: 500;
+    height: 25px;
+    width: 365px;
+    border-radius: 3px;
+
+}
+
+.dob{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.option{
+    padding-top: 0px;
+
+}
+
+.sex{
+    font-size: small;
+}
+
+.para1{
+    font-size: small;
+    font-weight: 100;
+}
+
+.sign-btn{
+    color: #fff;
+    font-weight: bold;
+    background: rgba(5, 152, 5, 0.774);
+    border-radius: 5px;
+    height: 35px;
+    width: 180px;
+}
+
+.para2{
+    font-size: small;
+    font-weight: 100;
+}
+
